@@ -5,7 +5,8 @@
 ## Concept
 
 * [Motivation](concept/motivation.md)
-* [Game Design](concept/game-design.md)
+* [Game Design](concept/game-design/README.md)
+  * [Texas Hold'em](concept/game-design/texas-holdem.md)
 * [Roadmap](concept/roadmap.md)
 
 ## Technology

@@ -4,8 +4,6 @@ description: A hold'am Poker Game built over Cardano Blockchain
 
 # Cardano After Dark
 
-
-
 {% hint style="info" %}
 **Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
 {% endhint %}
@@ -44,8 +42,8 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [motivation.md](concept/motivation.md)
 {% endcontent-ref %}
 
-{% content-ref url="concept/game-design.md" %}
-[game-design.md](concept/game-design.md)
+{% content-ref url="concept/game-design/" %}
+[game-design](concept/game-design/)
 {% endcontent-ref %}
 
 {% hint style="info" %}
