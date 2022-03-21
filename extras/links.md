@@ -8,4 +8,10 @@ Miro Board include essential white board drawings and diagrams.
 
 ### Social
 
-[https://twitter.com/cardanafterdark](https://twitter.com/cardanafterdark)
+{% embed url="https://twitter.com/cardanafterdark" %}
+Cardano After Dark
+{% endembed %}
+
+### Dev
+
+{% embed url="https://github.com/Cardano-After-Dark" %}
